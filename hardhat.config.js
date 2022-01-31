@@ -32,5 +32,8 @@ module.exports = {
       chainId: 4,
       url: "https://rinkeby.infura.io/v3/d76286c158cc4766b7cd59098d23c3b6"
     }
+  },
+  etherscan: {
+    apiKey: ""
   }
 };
